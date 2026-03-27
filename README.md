@@ -1,16 +1,71 @@
-# React + Vite
+# FrontendDevReactjs-NamaAnda
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A restaurant listing web app built with React.js, allowing users to browse, filter, and view restaurant details.
 
-Currently, two official plugins are available:
+## 🛠️ Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- **React.js** v19.2.4
+- **Node.js** v22.13.0
+- **React Router DOM** v7.13.2
+- **Tailwind CSS** v4
+- **Vite**
 
-## React Compiler
+## 🚀 How to Start Project
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Using npm
+```bash
+# 1. Clone the repository
+git clone https://github.com/USERNAME/FrontendDevReactjs-NamaAnda.git
 
-## Expanding the ESLint configuration
+# 2. Navigate to project folder
+cd FrontendDevReactjs-NamaAnda
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# 3. Install dependencies
+npm install
+
+# 4. Start development server
+npm run dev
+```
+
+### Using yarn
+```bash
+# 1. Clone the repository
+git clone https://github.com/USERNAME/FrontendDevReactjs-NamaAnda.git
+
+# 2. Navigate to project folder
+cd FrontendDevReactjs-NamaAnda
+
+# 3. Install dependencies
+yarn
+
+# 4. Start development server
+yarn dev
+```
+
+## 🌐 Live Demo
+[View on Netlify](https://your-netlify-url.netlify.app)
+
+## 📁 Project Structure
+```
+src/
+├── components/
+│   ├── Navbar.jsx
+│   ├── RestaurantCard.jsx
+│   └── FilterBar.jsx
+├── pages/
+│   ├── Home.jsx
+│   └── Detail.jsx
+├── App.jsx
+├── main.jsx
+└── index.css
+```
+
+## 🔑 Login Credentials
+
+| Username | Password |
+|----------|----------|
+| admin    | admin123 |
+
+## 📡 API Reference
+
+This project uses [TheMealDB](https://www.themealdb.com/api.php) as the restaurant data source.
