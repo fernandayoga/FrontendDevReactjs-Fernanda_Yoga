@@ -20,7 +20,7 @@ function StarRating({ rating }) {
 
 // Simulasi data reviews
 function generateReviews() {
-  const names = ['Ahmad', 'Budi', 'Chandra', 'Diana', 'Erlan']
+  const names = ['Person 1', 'Person 2', 'Person 3', 'Person 4', 'Person 5']
   const comments = [
     'Amazing food, highly recommend!',
     'Great taste and atmosphere.',

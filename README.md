@@ -1,4 +1,4 @@
-# FrontendDevReactjs-NamaAnda
+# FrontendDevReactjs-Fernanda_Yoga
 
 A restaurant listing web app built with React.js, allowing users to browse, filter, and view restaurant details.
 
@@ -15,10 +15,10 @@ A restaurant listing web app built with React.js, allowing users to browse, filt
 ### Using npm
 ```bash
 # 1. Clone the repository
-git clone https://github.com/USERNAME/FrontendDevReactjs-NamaAnda.git
+git clone https://github.com/USERNAME/FrontendDevReactjs-Fernanda_Yoga.git
 
 # 2. Navigate to project folder
-cd FrontendDevReactjs-NamaAnda
+cd FrontendDevReactjs-Fernanda_Yoga
 
 # 3. Install dependencies
 npm install
@@ -30,10 +30,10 @@ npm run dev
 ### Using yarn
 ```bash
 # 1. Clone the repository
-git clone https://github.com/USERNAME/FrontendDevReactjs-NamaAnda.git
+git clone https://github.com/USERNAME/FrontendDevReactjs-Fernanda_Yoga.git
 
 # 2. Navigate to project folder
-cd FrontendDevReactjs-NamaAnda
+cd FrontendDevReactjs-Fernanda_Yoga
 
 # 3. Install dependencies
 yarn
@@ -43,7 +43,7 @@ yarn dev
 ```
 
 ## 🌐 Live Demo
-[View on Netlify](https://your-netlify-url.netlify.app)
+[View on Netlify](https://frontenddevreactjs-fernandayoga.netlify.app/)
 
 ## 📁 Project Structure
 ```
